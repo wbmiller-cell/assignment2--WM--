@@ -1,0 +1,45 @@
+{smcl}
+{txt}{sf}{ul off}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}P:\QAC\qac380\TEAMS\Team 1\WM\Individual Assignments.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res}13 Oct 2025, 15:36:00
+{txt}
+{com}. tab1 species island sex year
+
+-> tabulation of species  
+{txt}no observations
+
+-> tabulation of island  
+no observations
+
+-> tabulation of sex  
+no observations
+
+-> tabulation of year  
+
+       year {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+       2007 {c |}{res}        110       31.98       31.98
+{txt}       2008 {c |}{res}        114       33.14       65.12
+{txt}       2009 {c |}{res}        120       34.88      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}        344      100.00
+{txt}
+{com}. su bill_depth_mm bill_length_mm flipper_length_mm body_mass_g
+
+{txt}    Variable {c |}        Obs        Mean    Std. dev.       Min        Max
+{hline 13}{c +}{hline 57}
+bill_depth~m {c |}{res}        342    17.15117    1.974793       13.1       21.5
+{txt}bill_lengt~m {c |}{res}        342    43.92193    5.459584       32.1       59.6
+{txt}flipper_le~m {c |}{res}        342    200.9152    14.06171        172        231
+{txt}{space 1}body_mass_g {c |}{res}        342    4201.754    801.9545       2700       6300
+{txt}
+{com}. log close
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}P:\QAC\qac380\TEAMS\Team 1\WM\Individual Assignments.smcl
+  {txt}log type:  {res}smcl
+ {txt}closed on:  {res}13 Oct 2025, 15:36:00
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}
