@@ -1,0 +1,8 @@
+import delimited "C:\Users\lkerest\Downloads\penguins.csv"
+encode bill_length_mm, generate(billlengthnum)
+encode bill_depth_mm, generate(billdepthnum)
+encode flipper_length_mm, generate(flipperlengthnum)
+encode body_mass_g, generate(bodymassnum)
+sum billlengthnum billdepthnum flipperlengthnum bodymassnum
+tab1 sex year
+
